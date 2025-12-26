@@ -11,8 +11,7 @@ All core logic resides in the pipeline/ package. state.py defines the shared Fee
 
 The data/ directory stores mock input datasets and ground truth for evaluation. Generated outputs, including tickets and logs, are written to outputs/. Dependencies and environment configuration are managed via requirements.txt and .env.
 
-
-- With Langgraph
+# With Langgraph Structure
 
 feedback_ai/
 │
@@ -41,7 +40,7 @@ feedback_ai/
 
 
 
-- With CrewAI
+# With CrewAI Structure
 
 feedback_ai_crewai/
 │
@@ -70,7 +69,7 @@ feedback_ai_crewai/
 ├── requirements.txt
 └── .env
 
-- Differece in Langgraph and CrewAI mapping. What Changes Fundamentally in CrewAI?
+# Differece in Langgraph and CrewAI mapping. What Changes Fundamentally in CrewAI?
 
 1. No StateGraph → CrewAI manages flow via tasks
 
@@ -81,7 +80,7 @@ feedback_ai_crewai/
 4. Memory optional, not structural
 
 5. Much simpler mental model for demos and MVPs
-![Uploading Screenshot 2025-12-26 at 7.34.29 PM.png…]()
+
 
   
 
