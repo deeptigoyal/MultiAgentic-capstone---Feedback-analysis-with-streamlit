@@ -39,11 +39,6 @@ feedback_ai/
 ├── requirements.txt
 └── .env
 
-<img width="353" height="456" alt="Screenshot 2025-12-26 at 7 20 45 PM" src="https://github.com/user-attachments/assets/959b5fc9-3fc0-4c49-a347-73277647f498" />
-
-
-
-
 
 
 - With CrewAI
@@ -75,6 +70,20 @@ feedback_ai_crewai/
 ├── requirements.txt
 └── .env
 
+- Differece in Langgraph and CrewAI mapping. What Changes Fundamentally in CrewAI?
+
+1. No StateGraph → CrewAI manages flow via tasks
+
+2. No async graph orchestration → CrewAI is mostly sequential
+
+3. State becomes task outputs, not a TypedDict
+
+4. Memory optional, not structural
+
+5. Much simpler mental model for demos and MVPs
+![Uploading Screenshot 2025-12-26 at 7.34.29 PM.png…]()
+
+  
 
 <img width="423" height="383" alt="Screenshot 2025-12-26 at 7 34 29 PM" src="https://github.com/user-attachments/assets/e32b6c4e-6bfd-441f-a6a1-628eefba1307" />
 
