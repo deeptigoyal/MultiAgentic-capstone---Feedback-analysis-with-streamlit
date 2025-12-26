@@ -75,4 +75,6 @@ feedback_ai_crewai/
 ├── requirements.txt
 └── .env
 
-<img width="455" height="485" alt="Screenshot 2025-12-26 at 7 29 12 PM" src="https://github.com/user-attachments/assets/8bba7584-2f2d-4935-aca5-73fa7adbf5d7" />
+
+<img width="423" height="383" alt="Screenshot 2025-12-26 at 7 34 29 PM" src="https://github.com/user-attachments/assets/e32b6c4e-6bfd-441f-a6a1-628eefba1307" />
+
