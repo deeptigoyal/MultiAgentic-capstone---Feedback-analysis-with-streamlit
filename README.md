@@ -12,7 +12,7 @@ All core logic resides in the pipeline/ package. state.py defines the shared Fee
 The data/ directory stores mock input datasets and ground truth for evaluation. Generated outputs, including tickets and logs, are written to outputs/. Dependencies and environment configuration are managed via requirements.txt and .env.
 
 
-With Langgraph
+- With Langgraph
 
 feedback_ai/
 │
@@ -46,7 +46,7 @@ feedback_ai/
 
 
 
-With CrewAI
+- With CrewAI
 
 feedback_ai_crewai/
 │
