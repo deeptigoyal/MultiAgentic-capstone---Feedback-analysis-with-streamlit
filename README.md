@@ -13,10 +13,66 @@ The data/ directory stores mock input datasets and ground truth for evaluation. 
 
 
 With Langgraph
+
+feedback_ai/
+│
+├── app.py
+│
+├── pipeline/
+│   ├── __init__.py
+│   ├── state.py
+│   ├── config.py
+│   ├── llm.py
+│   ├── agents.py
+│   ├── graph.py
+│   ├── runner.py
+│
+├── data/
+│   ├── app_store_reviews.csv
+│   ├── support_emails.csv
+│   └── expected_classifications.csv
+│
+├── outputs/
+│   ├── generated_tickets.csv
+│   └── feedback_pipeline.log
+│
+├── requirements.txt
+└── .env
+
 <img width="353" height="456" alt="Screenshot 2025-12-26 at 7 20 45 PM" src="https://github.com/user-attachments/assets/959b5fc9-3fc0-4c49-a347-73277647f498" />
 
 
 
 
+
+
 With CrewAI
+
+feedback_ai_crewai/
+│
+├── app.py                       # (Optional) Streamlit UI
+│
+├── crew/
+│   ├── __init__.py
+│   ├── llm.py                   # LLM config (Groq/OpenAI)
+│   ├── agents.py                # CrewAI Agents
+│   ├── tasks.py                 # Tasks mapped to agents
+│   ├── crew.py                  # Crew definition & execution
+│
+├── tools/
+│   ├── csv_reader.py
+│   ├── ticket_writer.py
+│
+├── data/
+│   ├── app_store_reviews.csv
+│   ├── support_emails.csv
+│
+├── outputs/
+│   ├── generated_tickets.csv
+│   ├── processing_log.csv
+│   └── metrics.csv
+│
+├── requirements.txt
+└── .env
+
 <img width="455" height="485" alt="Screenshot 2025-12-26 at 7 29 12 PM" src="https://github.com/user-attachments/assets/8bba7584-2f2d-4935-aca5-73fa7adbf5d7" />
