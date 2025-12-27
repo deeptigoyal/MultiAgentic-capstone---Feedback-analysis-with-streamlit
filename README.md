@@ -46,12 +46,12 @@ feedback_ai_crewai/
 │
 ├── app.py                       # (Optional) Streamlit UI
 │
-├── crew/
+├── crew_pipeline/
 │   ├── __init__.py
 │   ├── llm.py                   # LLM config (Groq/OpenAI)
 │   ├── agents.py                # CrewAI Agents
 │   ├── tasks.py                 # Tasks mapped to agents
-│   ├── crew.py                  # Crew definition & execution
+│   ├── crew_feedback.py                  # Crew definition & execution
 │
 ├── tools/
 │   ├── csv_reader.py
