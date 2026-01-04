@@ -1,4 +1,4 @@
-# Feedback-analysis-with-langraph-streamlit
+# Feedback-analysis-with-langraph/crewai-streamlit
 
 
 Multi-Agent Feedback AI System
@@ -9,7 +9,7 @@ The app.py file contains only the Streamlit user interface, enabling CSV upload,
 
 All core logic resides in the pipeline/ package. state.py defines the shared FeedbackState, ensuring consistent data flow across agents. config.py manages environment variables, API keys, and logging setup, while llm.py initializes the ChatGroq model used by agents. agents.py contains specialized agents for classification, bug analysis, feature extraction, ticket creation, and quality control. graph.py builds the LangGraph workflow with conditional routing, and runner.py orchestrates end-to-end execution for each feedback record.
 
-The data/ directory stores mock input datasets and ground truth for evaluation. Generated outputs, including tickets and logs, are written to outputs/. Dependencies and environment configuration are managed via requirements.txt and .env.
+**The data/ directory stores mock input datasets and ground truth for evaluation. **Generated outputs, including tickets and logs, are written to outputs/. Dependencies and environment configuration are managed via requirements.txt and .env.
 
 # With Langgraph Structure
 
@@ -65,7 +65,8 @@ feedback_ai_crewai/
 │   ├── generated_tickets.csv
 │   ├── processing_log.csv
 │   └── metrics.csv
-│
+└── metric_evaluation.py
+└── outputs_screenshots/results.png
 ├── requirements.txt
 └── .env
 
