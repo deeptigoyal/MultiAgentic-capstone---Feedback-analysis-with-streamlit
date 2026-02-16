@@ -1,0 +1,39 @@
+# Orchestration
+langchain==0.3.0
+langchain-community
+langchain-core
+langgraph
+crewai
+pyautogen
+llama-index
+
+# LLM SDKs
+google-cloud-aiplatform
+google-generativeai
+openai
+anthropic
+groq
+
+# Vector DBs / Memory
+chromadb
+pinecone-client
+faiss-cpu
+lancedb
+
+# Tools & Utilities
+duckduckgo-search
+google-search-results
+wikipedia
+yfinance
+beautifulsoup4
+requests
+pandas
+numpy
+pypdf
+python-dotenv
+
+# Observability
+langsmith
+arize-phoenix
+ragas
+deepeval

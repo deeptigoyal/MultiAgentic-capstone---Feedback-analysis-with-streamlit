@@ -1,0 +1,70 @@
+source_id,source_type,raw_text,predicted_category,confidence,priority,ticket_title,ticket_description,technical_details,feature_details,metadata
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.8,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,0.95,**,[BUG]  - Issue,"Category: Bug
+Priority: **
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Bug,0.9,High,[BUG]  - Issue,"Category: Bug
+Priority: High
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.8,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
