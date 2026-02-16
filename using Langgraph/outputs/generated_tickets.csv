@@ -1,0 +1,871 @@
+source_id,source_type,raw_text,predicted_category,confidence,priority,ticket_title,ticket_description,technical_details,feature_details,metadata
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,1.0,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.8,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.9,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E001,email,"App Crash Report. Dear Team, the app crashes on my Samsung Galaxy S21 running Android 14. Steps: Open app → tap Add Task → crash.",Bug,,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+E002,email,"Login Issue. Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.",Complaint,,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+E005,email,"Data Loss Problem. Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.",Complaint,1.0,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+E006,email,"General Feedback. Love the app so far, works smoothly for my daily planning.",Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E007,email,"App Crash Report. App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.",Bug,0.85,"Medium (Assumed, since the exact severity is not mentioned in the report and ""App crashes randomly lol"" suggests moderate impact)",[BUG]  - Issue,"Category: Bug
+Priority: Medium (Assumed, since the exact severity is not mentioned in the report and ""App crashes randomly lol"" suggests moderate impact)
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.95,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,0.8,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,1.0,"High (Assumed, as the app crashes which is a critical issue but the severity level isn't explicitly mentioned in the report)",[BUG] Not provided - Issue,"Category: Bug
+Priority: High (Assumed, as the app crashes which is a critical issue but the severity level isn't explicitly mentioned in the report)
+Device Info: Not provided
+OS Version: Not provided
+Steps to Reproduce: 1. Open the app
+","{'device_info': 'Not provided', 'os_version': 'Not provided', 'steps_to_reproduce': '1. Open the app'}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,0.9,High,[BUG] device: iOS device (not specified) - Issue,"Category: Bug
+Priority: High
+Device Info: device: iOS device (not specified)
+OS Version: version: iOS 17
+Steps to Reproduce: 1. Attempt to login after updating the app.
+","{'device_info': 'device: iOS device (not specified)', 'os_version': 'version: iOS 17', 'steps_to_reproduce': '1. Attempt to login after updating the app.'}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.8,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Bug,0.8,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Bug,,Medium,[BUG]  - Issue,"Category: Bug
+Priority: Medium
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.0,Low,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Low
+",None,None,{}
+None,review,,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.7,Low,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,0.8,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Bug,0.0,Low,[BUG]  - Issue,"Category: Bug
+Priority: Low
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Bug,0.8,"""High""","[BUG] ""Google Pixel 6 with Android 11"" - Issue","Category: Bug
+Priority: ""High""
+Device Info: ""Google Pixel 6 with Android 11""
+OS Version: ""Android 11 (API level 30)""
+Steps to Reproduce: ""1. Launch app
+","{'device_info': '""Google Pixel 6 with Android 11""', 'os_version': '""Android 11 (API level 30)""', 'steps_to_reproduce': '""1. Launch app'}",None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,1.0,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.8,Medium,[PRAISE] Feedback,"Category: Praise
+Priority: Medium
+",None,None,{}
+None,review,,Praise,1.0,Medium,[PRAISE] Feedback,"Category: Praise
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,Low,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Medium,[PRAISE] Feedback,"Category: Praise
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.7,Medium,[PRAISE] Feedback,"Category: Praise
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.8,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Bug,0.8,severity,[BUG]  - Issue,"Category: Bug
+Priority: severity
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.8,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Bug,0.3,Low,[BUG]  - Issue,"Category: Bug
+Priority: Low
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.8,Medium,[PRAISE] Feedback,"Category: Praise
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.3,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.8,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,1.0,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.7,Low,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+None,review,,Praise,0.9,Medium,[PRAISE] Feedback,"Category: Praise
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Medium,[PRAISE] Feedback,"Category: Praise
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.8,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.8,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+None,review,,Complaint,,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Bug,0.6,Medium,[BUG]  - Issue,"Category: Bug
+Priority: Medium
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Bug,0.95,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+None,review,,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Bug,,<severity>,[BUG] <device info> - Issue,"Category: Bug
+Priority: <severity>
+Device Info: <device info>
+OS Version: <OS info>
+Steps to Reproduce: <steps>
+","{'device_info': '<device info>', 'os_version': '<OS info>', 'steps_to_reproduce': '<steps>'}",None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+None,review,,Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+None,review,,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,"** High (Assuming it's ""High"" since the app crashes, which is a severe issue)",[BUG] ** This information is not provided in the given report. - Issue,"Category: Bug
+Priority: ** High (Assuming it's ""High"" since the app crashes, which is a severe issue)
+Device Info: ** This information is not provided in the given report.
+OS Version: ** This information is not provided in the given report.
+Steps to Reproduce: ** 
+","{'device_info': '** This information is not provided in the given report.', 'os_version': '** This information is not provided in the given report.', 'steps_to_reproduce': '** '}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,1.0,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E001,email,"App Crash Report. Dear Team, the app crashes on my Samsung Galaxy S21 running Android 14. Steps: Open app → tap Add Task → crash.",Bug,0.9,** ,[BUG] **  - Issue,"Category: Bug
+Priority: ** 
+Device Info: ** 
+OS Version: ** 
+Steps to Reproduce: ** 
+","{'device_info': '** ', 'os_version': '** ', 'steps_to_reproduce': '** '}",None,{}
+E002,email,"Login Issue. Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.",Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+E005,email,"Data Loss Problem. Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.",Complaint,1.0,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+E006,email,"General Feedback. Love the app so far, works smoothly for my daily planning.",Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E007,email,"App Crash Report. App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.",Bug,,**,[BUG] ** - Issue,"Category: Bug
+Priority: **
+Device Info: **
+OS Version: **
+Steps to Reproduce: **
+","{'device_info': '**', 'os_version': '**', 'steps_to_reproduce': '**'}",None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,"High (Since the app crashes, it affects the user's ability to use the app)",[BUG]  - Issue,"Category: Bug
+Priority: High (Since the app crashes, it affects the user's ability to use the app)
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.95,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E001,email,"App Crash Report. Dear Team, the app crashes on my Samsung Galaxy S21 running Android 14. Steps: Open app → tap Add Task → crash.",Bug,,Critical,[BUG] - Device: Samsung Galaxy S21 - Issue,"Category: Bug
+Priority: Critical
+Device Info: - Device: Samsung Galaxy S21
+OS Version: Android 14
+Steps to Reproduce: 
+","{'device_info': '- Device: Samsung Galaxy S21', 'os_version': 'Android 14', 'steps_to_reproduce': ''}",None,{}
+E002,email,"Login Issue. Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.",Complaint,,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+E005,email,"Data Loss Problem. Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.",Complaint,,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+E006,email,"General Feedback. Love the app so far, works smoothly for my daily planning.",Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E007,email,"App Crash Report. App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.",Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+E002,email,"Login Issue. Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.",Complaint,0.95,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+E005,email,"Data Loss Problem. Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.",Complaint,,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+E006,email,"General Feedback. Love the app so far, works smoothly for my daily planning.",Praise,,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E007,email,"App Crash Report. App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.",Bug,0.95,High,[BUG]  - Issue,"Category: Bug
+Priority: High
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+E001,email,"App Crash Report. Dear Team, the app crashes on my Samsung Galaxy S21 running Android 14. Steps: Open app → tap Add Task → crash.",Bug,,Medium,[BUG] - Device: Samsung Galaxy S21 - Issue,"Category: Bug
+Priority: Medium
+Device Info: - Device: Samsung Galaxy S21
+OS Version: - Android 14
+Steps to Reproduce: 1. Open the app
+","{'device_info': '- Device: Samsung Galaxy S21', 'os_version': '- Android 14', 'steps_to_reproduce': '1. Open the app'}",None,{}
+E002,email,"Login Issue. Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.",Complaint,0.9,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+E005,email,"Data Loss Problem. Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.",Complaint,,Critical,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Critical
+",None,None,{}
+E006,email,"General Feedback. Love the app so far, works smoothly for my daily planning.",Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+E007,email,"App Crash Report. App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.",Bug,,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.95,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Bug,0.9,** This is subjective based on user experience. Assuming 'Medium' severity because it affects the user's ability to synchronize data between their devices.,"[BUG] ** Not provided directly, however, we can infer the device type as 'phone' and 'tablet', but the specific models, make and other details are unknown. - Issue","Category: Bug
+Priority: ** This is subjective based on user experience. Assuming 'Medium' severity because it affects the user's ability to synchronize data between their devices.
+Device Info: ** Not provided directly, however, we can infer the device type as 'phone' and 'tablet', but the specific models, make and other details are unknown.
+OS Version: ** Not provided directly, however, we can infer that it's a mobile device operating system such as Android or iOS.
+Steps to Reproduce: **
+","{'device_info': ""** Not provided directly, however, we can infer the device type as 'phone' and 'tablet', but the specific models, make and other details are unknown."", 'os_version': ""** Not provided directly, however, we can infer that it's a mobile device operating system such as Android or iOS."", 'steps_to_reproduce': '**'}",None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.9,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.9,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
