@@ -1,0 +1,64 @@
+source_id,input_text,pipeline_output,ticket_title,ticket_description,priority,category,confidence
+E001,"Dear Team, the app crashes on my Samsung Galaxy S21 running Android 14. Steps: Open app → tap Add Task → crash.","- **Ticket Title:** App Crash on Add Task Functionality for Samsung Galaxy S21  
+- **Ticket Description:** The mobile application crashes consistently when users attempt to add a new task on Samsung Galaxy S21 devices running Android 14. The issue can be reproduced by following these steps: 1. Open the app 2. Tap on ""Add Task"" 3. The app crashes immediately. This bug severely impacts the user's ability to manage their tasks effectively.  
+- **Priority:** Critical  
+- **Category:** Bug  
+- **Confidence:** 0.95", App Crash on Add Task Functionality for Samsung Galaxy S21," The mobile application crashes consistently when users attempt to add a new task on Samsung Galaxy S21 devices running Android 14. The issue can be reproduced by following these steps: 1. Open the app 2. Tap on ""Add Task"" 3. The app crashes immediately. This bug severely impacts the user's ability to manage their tasks effectively.", Critical, Bug, 0.95
+E002,"Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.","- **Ticket Title:** Critical Login Failure on iPhone 14 After App Update  
+- **Ticket Description:** Users are unable to log in to the application after updating to the latest version on iPhone 14 running iOS 17. The issue occurs specifically when the app is updated, resulting in a login failure. This is a critical bug that affects user access to the application, and immediate attention is required to resolve the issue.  
+- **Priority:** Critical  
+- **Category:** Bug  
+- **Confidence:** 0.95", Critical Login Failure on iPhone 14 After App Update," Users are unable to log in to the application after updating to the latest version on iPhone 14 running iOS 17. The issue occurs specifically when the app is updated, resulting in a login failure. This is a critical bug that affects user access to the application, and immediate attention is required to resolve the issue.", Critical, Bug, 0.95
+E003,"Hello team, I would really appreciate a dark mode option for night usage.","**Ticket Title:** Implement Dark Mode Feature for Night Usage  
+
+**Ticket Description:**  
+This ticket requests the implementation of a dark mode option in the application. The purpose of this feature is to enhance usability during night usage by reducing eye strain and improving visibility in low-light conditions. The user has expressed a strong desire for an interface that adapts to varying lighting conditions, indicating a high user impact and a need for comfortable viewing during nighttime.  
+
+**Priority:** Medium  
+
+**Category:** Feature Request  
+
+**Confidence:** 0.85", Implement Dark Mode Feature for Night Usage,, Medium, Feature Request, 0.85
+E004,It would be great if you could add calendar integration with Google Calendar.,"- **Ticket Title**: Feature Request for Google Calendar Integration  
+- **Ticket Description**: The user has requested the addition of a Google Calendar integration feature within the application. This integration would allow users to sync their schedules and events seamlessly, enhancing productivity and streamlining their scheduling. Users can access their Google Calendar events directly within the application, which is expected to have a high impact on their overall experience. Steps to reproduce this request include opening the application, navigating to the settings menu, and looking for options related to calendar integration.  
+- **Priority**: Medium  
+- **Category**: Feature Request  
+- **Confidence**: 0.9",,,,,
+E005,"Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.","- **Ticket Title:** Critical Data Loss During Synchronization on OnePlus 11  
+- **Ticket Description:** Users are experiencing a critical issue where tasks disappear after syncing data across devices on the OnePlus 11 running Android 13. This problem severely impacts user trust and functionality, as tasks are vital for productivity. A robust data synchronization feature is required to ensure that tasks remain consistent and intact across all devices after syncing. The new feature should include error handling and provide user notifications if any issues arise during the sync process.  
+- **Priority:** Critical  
+- **Category:** Complaint  
+- **Confidence:** 0.95", Critical Data Loss During Synchronization on OnePlus 11," Users are experiencing a critical issue where tasks disappear after syncing data across devices on the OnePlus 11 running Android 13. This problem severely impacts user trust and functionality, as tasks are vital for productivity. A robust data synchronization feature is required to ensure that tasks remain consistent and intact across all devices after syncing. The new feature should include error handling and provide user notifications if any issues arise during the sync process.", Critical, Complaint, 0.95
+E006,"Love the app so far, works smoothly for my daily planning.","**Ticket Title:** User Appreciation for App Functionality  
+
+**Ticket Description:** The user has provided positive feedback regarding the smooth functionality of the app for daily planning tasks. They indicate that the core features are working effectively and are user-friendly. This suggests a high level of satisfaction with the app's current performance and reliability, leading the user to continue using it for their daily planning needs.  
+
+**Priority:** Low  
+
+**Category:** Praise  
+
+**Confidence:** 0.95", User Appreciation for App Functionality," The user has provided positive feedback regarding the smooth functionality of the app for daily planning tasks. They indicate that the core features are working effectively and are user-friendly. This suggests a high level of satisfaction with the app's current performance and reliability, leading the user to continue using it for their daily planning needs.", Low, Praise, 0.95
+E007,"App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.","**Ticket Title:** App Crash During Task Editing on Pixel 7
+
+**Ticket Description:** The application experiences random crashes during the task editing process specifically on the Pixel 7 device running Android 14. Users encounter this issue after following these steps: 1. Open the app. 2. Navigate to the task editing section. 3. Edit a task. The app crashes without warning during the editing process, significantly disrupting user experience and preventing effective task management. This bug is critical and needs immediate attention to ensure a stable and reliable editing functionality for users.
+
+**Priority:** Critical
+
+**Category:** Bug
+
+**Confidence:** 0.95", App Crash During Task Editing on Pixel 7," The application experiences random crashes during the task editing process specifically on the Pixel 7 device running Android 14. Users encounter this issue after following these steps: 1. Open the app. 2. Navigate to the task editing section. 3. Edit a task. The app crashes without warning during the editing process, significantly disrupting user experience and preventing effective task management. This bug is critical and needs immediate attention to ensure a stable and reliable editing functionality for users.", Critical, Bug, 0.95
+E008,Please add recurring tasks feature. Very important for productivity.,"**Ticket Title:** Add Recurring Tasks Feature for Enhanced Productivity  
+
+**Ticket Description:**  
+We propose the addition of a recurring tasks feature within our task management system. This feature will allow users to create tasks that automatically repeat on a specified schedule (daily, weekly, monthly, etc.). The implementation of this feature is intended to streamline task management, enabling users to manage their tasks more efficiently and ultimately improving their overall productivity. Currently, users must manually create recurring tasks, which is time-consuming and inefficient. By addressing this need, we can significantly enhance the user experience and reduce the workload for our users.
+
+**Priority:** High  
+
+**Category:** Feature Request  
+
+**Confidence:** 0.95", Add Recurring Tasks Feature for Enhanced Productivity,, High, Feature Request, 0.95
+E009,Check out our marketing services at www.promosite.com,"- **Ticket Title:** Potential Feature for Promoting External Services  
+- **Ticket Description:** A user has suggested a feature that allows users to easily access and promote external services or websites directly within the platform. The intent is to increase visibility and traffic to their marketing services via a clickable link. Although the user impact is currently considered low, this feature could enhance user engagement for those promoting services.  
+- **Priority:** Low  
+- **Category:** Spam  
+- **Confidence:** 0.9", Potential Feature for Promoting External Services," A user has suggested a feature that allows users to easily access and promote external services or websites directly within the platform. The intent is to increase visibility and traffic to their marketing services via a clickable link. Although the user impact is currently considered low, this feature could enhance user engagement for those promoting services.", Low, Spam, 0.9

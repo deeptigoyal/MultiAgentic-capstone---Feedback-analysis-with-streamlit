@@ -1,0 +1,116 @@
+source_id,input_text,pipeline_output,ticket_title,ticket_description,priority,category,confidence
+R001,App crashes when I try to open my task list after the latest update.,"- **Ticket Title:** App Crashes When Accessing Task List After Update  
+- **Ticket Description:** The application crashes when users attempt to access the task list after updating to the latest version. This is a critical bug that affects the core functionality of the app, preventing users from viewing and managing their tasks effectively. The issue can be reproduced by updating the app to the latest version and then trying to open the task list.  
+- **Priority:** Critical  
+- **Category:** Bug  
+- **Confidence:** 0.95", App Crashes When Accessing Task List After Update," The application crashes when users attempt to access the task list after updating to the latest version. This is a critical bug that affects the core functionality of the app, preventing users from viewing and managing their tasks effectively. The issue can be reproduced by updating the app to the latest version and then trying to open the task list.", Critical, Bug, 0.95
+R002,Can't login since update. Keeps showing an error on iOS 17.,"- Ticket Title: Critical Bug in Login Feature on iOS Devices Post iOS 17 Update  
+- Ticket Description: The login feature on iOS devices is malfunctioning, preventing users from logging in with valid credentials. After the recent update to iOS 17, users encounter an error message upon attempting to log in. This issue significantly impacts user experience and must be addressed immediately to restore functionality.  
+- Priority: Critical  
+- Category: Bug  
+- Confidence: 0.95",Critical Bug in Login Feature on iOS Devices Post iOS 17 Update,"The login feature on iOS devices is malfunctioning, preventing users from logging in with valid credentials. After the recent update to iOS 17, users encounter an error message upon attempting to log in. This issue significantly impacts user experience and must be addressed immediately to restore functionality.",Critical,Bug,0.95
+R003,Data sync not working between my phone and tablet.,"**Ticket Title:** Critical Bug in Data Synchronization Between Phone and Tablet  
+
+**Ticket Description:**  
+A critical bug has been identified in the data synchronization process between mobile devices, specifically affecting the ability to sync data between a phone and a tablet. Users attempting to sync data find that the process does not complete successfully, leading to an inability to access or share updated information across their devices. This issue severely impacts user experience and needs immediate attention to ensure that the data sync feature functions reliably and effectively.  
+
+**Priority:** Critical  
+
+**Category:** Bug  
+
+**Confidence:** 0.9", Critical Bug in Data Synchronization Between Phone and Tablet,, Critical, Bug, 0.9
+R004,Please add a dark mode. Would be very helpful at night.,"- **Ticket Title:** Implement Dark Mode for Enhanced Usability in Low-Light Conditions  
+- **Ticket Description:** A feature request to implement a dark mode for the application that allows users to switch to a darker color scheme. This enhancement is aimed at improving usability during nighttime or in low-light environments, reducing eye strain and improving readability. Users have reported difficulty using the application due to bright light settings in these conditions. This function is crucial for users who need better visibility and comfort while using the application at night or in dimly lit settings.  
+- **Priority:** Medium  
+- **Category:** Feature Request  
+- **Confidence:** 0.85", Implement Dark Mode for Enhanced Usability in Low-Light Conditions," A feature request to implement a dark mode for the application that allows users to switch to a darker color scheme. This enhancement is aimed at improving usability during nighttime or in low-light environments, reducing eye strain and improving readability. Users have reported difficulty using the application due to bright light settings in these conditions. This function is crucial for users who need better visibility and comfort while using the application at night or in dimly lit settings.", Medium, Feature Request, 0.85
+R005,Would love to see calendar integration in future updates.,"- **Ticket Title:** Calendar Integration Feature Request  
+- **Ticket Description:** This feature request proposes the development of a calendar integration that allows users to sync their events and tasks with an external calendar service. The intent is to streamline the scheduling process, enabling users to access their calendar events directly within the application. This integration aims to enhance productivity and improve overall efficiency and organization for users.  
+- **Priority:** Medium  
+- **Category:** Feature Request  
+- **Confidence:** 0.85", Calendar Integration Feature Request," This feature request proposes the development of a calendar integration that allows users to sync their events and tasks with an external calendar service. The intent is to streamline the scheduling process, enabling users to access their calendar events directly within the application. This integration aims to enhance productivity and improve overall efficiency and organization for users.", Medium, Feature Request, 0.85
+R006,Amazing app! Love the new reminder feature.,"**Ticket Title:** User Praise for Reminder Feature  
+
+**Ticket Description:**  
+The user has expressed satisfaction with the new reminder feature in the app, highlighting its effectiveness in allowing users to set and receive notifications for important tasks or events. This positive feedback underscores the feature's role in enhancing productivity and time management for users. The user intends to continue using this feature and appreciates its functionality.  
+
+**Priority:** Low  
+
+**Category:** Praise  
+
+**Confidence:** 0.95", User Praise for Reminder Feature,, Low, Praise, 0.95
+R007,Works perfectly for daily planning. Great experience overall.,"- **Ticket Title:** User Praise for Daily Planning Feature  
+- **Ticket Description:** A user has expressed satisfaction with the current daily planning functionality, indicating that it effectively allows them to organize and manage their daily tasks and schedules. This positive feedback highlights the feature's alignment with user needs and expectations.  
+- **Priority:** Low  
+- **Category:** Praise  
+- **Confidence:** 0.95", User Praise for Daily Planning Feature," A user has expressed satisfaction with the current daily planning functionality, indicating that it effectively allows them to organize and manage their daily tasks and schedules. This positive feedback highlights the feature's alignment with user needs and expectations.", Low, Praise, 0.95
+R008,App is very slow and takes too long to load tasks.,"**Ticket Title:** Improve Loading Speed for Tasks Section  
+
+**Ticket Description:**  
+The application currently exhibits slow performance and excessive loading times when users attempt to access the tasks section. Users experience significant delays, which negatively impacts their overall experience with the app. The goal of this ticket is to enhance the overall speed and efficiency of the application to ensure that tasks load promptly upon accessing the tasks section. The steps to reproduce the issue are as follows:  
+1. Open the application.  
+2. Navigate to the tasks section.  
+3. Observe the loading time for tasks.  
+
+Given the high severity of this issue, it is crucial that we address the performance problems to provide a smoother, faster experience for users.  
+
+**Priority:** High  
+
+**Category:** Bug  
+
+**Confidence:** 0.95", Improve Loading Speed for Tasks Section,, High, Bug, 0.95
+R009,Too expensive for basic features. Not worth the price.,"- **Ticket Title:** Review Pricing Model to Enhance Value Proposition  
+- **Ticket Description:** Users have expressed dissatisfaction with the current pricing model, indicating that the cost is perceived as too high for the basic features offered by the product. There is a strong sentiment that the pricing needs to either be reduced or the features enhanced to justify the current cost. This feedback suggests a gap between user expectations and the value delivered, which could lead to higher churn rates if not addressed. It is imperative to evaluate the pricing strategy and consider adjustments to improve user satisfaction and retention.  
+- **Priority:** High  
+- **Category:** Complaint  
+- **Confidence:** 0.85", Review Pricing Model to Enhance Value Proposition," Users have expressed dissatisfaction with the current pricing model, indicating that the cost is perceived as too high for the basic features offered by the product. There is a strong sentiment that the pricing needs to either be reduced or the features enhanced to justify the current cost. This feedback suggests a gap between user expectations and the value delivered, which could lead to higher churn rates if not addressed. It is imperative to evaluate the pricing strategy and consider adjustments to improve user satisfaction and retention.", High, Complaint, 0.85
+R010,Poor customer service. No response to my emails.,"**Ticket Title:** Improve Customer Service Responsiveness  
+
+**Ticket Description:**  
+The current customer service system is lacking in responsiveness, leading to significant frustration among users. Feedback indicates that there is a notable delay in replies to customer inquiries, particularly concerning email communication. This issue has been classified as a high priority due to its severe impact on user satisfaction and overall experience. It is essential to implement a more efficient system that guarantees timely responses to customer inquiries, ensuring that users feel supported and valued.  
+
+**Priority:** High  
+
+**Category:** Complaint  
+
+**Confidence:** 0.95", Improve Customer Service Responsiveness,, High, Complaint, 0.95
+R011,Love the clean UI and simple design. Works perfectly!,"**Ticket Title:** User Praise for Clean UI and Simple Design  
+
+**Ticket Description:**  
+The user has expressed their satisfaction regarding the product's clean user interface (UI) and simple design. They believe these aspects significantly enhance their overall experience with the product. This positive feedback suggests that our focus on usability and aesthetics is appreciated by users, indicating that we are on the right track with our design philosophy.  
+
+**Priority:** Low  
+
+**Category:** Praise  
+
+**Confidence:** 0.95", User Praise for Clean UI and Simple Design,, Low, Praise, 0.95
+R012,Missing functionality like recurring task templates.,"**Ticket Title:** Implementation of Recurring Task Templates in Task Management Application  
+
+**Ticket Description:**  
+A feature request has been submitted for the implementation of recurring task templates within the task management application. Users have indicated that the absence of this functionality significantly hinders their ability to manage repetitive tasks efficiently. The proposed feature would allow users to create tasks that automatically repeat at specified intervals, thereby streamlining task management processes. By integrating this feature, we can improve user productivity, as it would reduce the need for manual entries of recurring tasks and decrease the likelihood of errors in task creation.  
+
+**Priority:** High  
+
+**Category:** Feature Request  
+
+**Confidence:** 0.85", Implementation of Recurring Task Templates in Task Management Application,, High, Feature Request, 0.85
+R013,asdfghjkl qwerty uiop 123456,"**Ticket Title:** Unclear User Feedback - Spam Detection
+
+**Ticket Description:**  
+The feedback received is classified as spam consisting of nonsensical text that does not present any clear request or requirement for a feature. The user's intent is ambiguous, failing to convey specific needs or expectations for a product feature. Given the nature of this feedback, it is unlikely to contribute positively to product development or improvements.
+
+**Priority:** Low
+
+**Category:** Spam
+
+**Confidence:** 0.9", Unclear User Feedback - Spam Detection,, Low, Spam, 0.9
+R014,Visit www.bestappsfree.com for amazing deals!!!,"**Ticket Title:** Spam Feedback Report Regarding App Deal Promotion  
+
+**Ticket Description:**  
+We have received a feedback report that appears to be spam, promoting deals available on the website www.bestappsfree.com. The user intends to inform others about this site, potentially to drive traffic. However, the report lacks necessary technical details such as device information, OS version, and steps to reproduce any issues. The overall impact of this feedback is low, and it does not warrant immediate attention.
+
+**Priority:** Low  
+
+**Category:** Spam  
+
+**Confidence:** 0.9", Spam Feedback Report Regarding App Deal Promotion,, Low, Spam, 0.9
